@@ -8,7 +8,7 @@ author_profile: true
 
 - Guan, Xin, **Liu, Hua**, You, Jinhong, Zhou, Yong. (2021) "[Estimation and Inference for Dynamic Single-Index Varying-Coefficient Models](http://www3.stat.sinica.edu.tw/preprint/SS-2019-0467_Preprint.pdf)", Statistica Sinica, online.
 
-- **Liu, Hua**, Pei, Youquan, Xu, Qunfang. (2020) "[Estimation for varying coefficient panel datamodel with cross-sectional dependence](https://ideas.repec.org/a/spr/metrik/v83y2020i3d10.1007_s00184-019-00739-0.html)", Metrika, 83, 377-410.
+- **Liu, Hua**, Pei, Youquan, Xu, Qunfang. (2020) "[Estimation for varying coefficient panel datamodel with cross-sectional dependence](https://link.springer.com/article/10.1007/s00184-019-00739-0)", Metrika, 83, 377-410.
 
 
 
