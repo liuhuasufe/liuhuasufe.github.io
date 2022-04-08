@@ -10,23 +10,23 @@ redirect_from:
 
 ![](../images/webpage.jpeg)
 
-I am currently an associate professor in [School of Data Science](http://www.sds.fudan.edu.cn/wp/) at Fudan University. I got my Ph.D. degree in Statistics from [Guanghua School of Management, Peking University](http://www.gsm.pku.edu.cn/) in 2017, under the supervision of [Prof. Hansheng Wang](http://hansheng.gsm.pku.edu.cn/). During 2017-2018 I worked as a postdoctoral research assistant in [Department of Statistics, Penn State University](http://stat.psu.edu/) with [Prof. Runze Li](http://personal.psu.edu/ril4/). My research interests are mainly on network data modelling and business statistics. 
+I am currently an assistant professor in [School of Economics and Finance](http://sef.xjtu.edu.cn/index.htm) at Xi'an Jiaotong University. I got my Ph.D. degree in Statistics from [School of Statistics and Management, Shanghai University of Finance and Economics](http://www.xjtu.edu.cn/) in 2021, under the supervision of [Prof. Jinhong You](https://ssm.sufe.edu.cn/f7/82/c712a128898/page.htm). During 2019-2021 I worked as a visiting Ph.D student in [Department of Statistics and Actuarial Science, Simon Fraser University](https://www.sfu.ca/stat-actsci.html) with [Prof. Jiguo Cao](https://www.sfu.ca/science/stat/cao/). My research interests are mainly on functional data analysis and non/semiparametric modeling.
 
 
 # Education
 
-- 2017, Ph.D. in Statistics, Guanghua School of Management, Peking University
-- 2013, B.S. in Applied Mathematics, Department of Mathematics and Computer Science, Sun-Yat Sen University
+- 2017.09 - 2021.06, Ph.D. in Statistics, School of Statistics and Management, Shanghai University of Finance and Economic
+- 2019.09 - 2021.05, Department of Statistics and Actuarial Science, Simon Fraser University
+- 2015.09 - 2017.06 , M.S. in Statistics, School of Statistics and Management, Shanghai University of Finance and Economic
+
 
 # Research Interests
 
-- Network Data Analysis
-- High Dimensional Modelling
-- Distributed statistical modelling and inference
-- Business Statistics
+- Functional Data Analysis
+- Nonparametric/semiparametric Modelling
+- Big Data Analysis
 
 # Grants
 
-- Statistical modelling and efficient computation for large scale social network data, National Natural Science Foundation of China (Youth Award), 11901105.
-- Network autoregression modelling and dynamic analysis, Shanghai Sailing Program, 19YF1402700
+
 
