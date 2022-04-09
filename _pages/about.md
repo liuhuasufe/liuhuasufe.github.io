@@ -17,7 +17,6 @@ I am currently an assistant professor in [School of Economics and Finance](http:
 
 - 2017.09 - 2021.06, Ph.D. in Statistics, School of Statistics and Management, Shanghai University of Finance and Economics
 - 2019.09 - 2021.05, Visiting Ph.D in Statistics, Department of Statistics and Actuarial Science, Simon Fraser University
-- 2015.09 - 2017.06, M.S. in Statistics, School of Statistics and Management, Shanghai University of Finance and Economics
 
 
 # Research Interests
