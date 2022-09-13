@@ -10,7 +10,7 @@ author_profile: true
 
 - Guan, X., **Liu, H.**, You, J., Zhou, Y. (2021) "[Estimation and Inference for Dynamic Single-Index Varying-Coefficient Models](http://www3.stat.sinica.edu.tw/preprint/SS-2019-0467_Preprint.pdf)", Statistica Sinica, online.
 
-- **Liu, H.**, Pei, Y., Xu, Q. (2020) "[Estimation for varying coefficient panel datamodel with cross-sectional dependence](https://link.springer.com/article/10.1007/s00184-019-00739-0)", Metrika, 83, 377-410.
+- **Liu, H.**, Pei, Y., Xu, Q. (2020) "[Estimation for Varying Coefficient Panel Data Model with Cross-Sectional Dependence](https://link.springer.com/article/10.1007/s00184-019-00739-0)", Metrika, 83, 377-410.
 
 
 
