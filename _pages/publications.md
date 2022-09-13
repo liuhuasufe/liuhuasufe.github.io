@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Hu, B., Hu, X., **Liu, H.**, You, J., Cao, J. (2021) "[Simultaneous Functional Quantile Regression](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0248_na.pdf)", Statistica Sinica, accept.
+- Hu, B., Hu, X., **Liu, H.**, You, J., Cao, J. (2022) "[Simultaneous Functional Quantile Regression](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0248_na.pdf)", Statistica Sinica, accept.
 
 - **Liu, H.**, You, J., Cao, J. (2021) "[A Dynamic Interaction Semiparametric Function-on-Scalar Model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1933496)", Journal of the American Statistical Association, online.
 
