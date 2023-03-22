@@ -28,9 +28,8 @@ I am currently an assistant professor in [School of Economics and Finance](http:
 # Grants
 
 
-- National Natural Science Foundation of China (NSFC). 2023.01-2025.12
+- National Natural Science Foundation of China (NSFC). 2023.01-2025.12.
 - Project funded by China Postdoctoral Science Foundation. 2023-2024.
-- Fundamental Research Funds for the Central Universities (SK2022044). 2022.01-2023.12
-
+- Fundamental Research Funds for the Central Universities (SK2022044). 2022.01-2023.12.
 
 
