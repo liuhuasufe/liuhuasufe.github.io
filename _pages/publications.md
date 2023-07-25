@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Liu, H.**, You, J., Cao, J. (2023) "[Functional
+- **Liu, H.**, You, J., Cao, J. (2023) "Functional
 L-Optimality Subsampling for Functional Generalized Linear Models with
-Massive Data]", Journal of Machine Learning Research, accepted.
+Massive Data", Journal of Machine Learning Research, accepted.
 
 - **Liu, H.**, You, J., Cao, J. (2023) "[A Dynamic Interaction Semiparametric Function-on-Scalar Model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1933496)", Journal of the American Statistical Association, 118(541), 360-373.
 
