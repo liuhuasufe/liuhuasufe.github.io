@@ -6,6 +6,8 @@ author_profile: true
 
 - Hu, B., Hu, X., **Liu, H.**, You, J., Cao, J. (2024) "[Simultaneous Functional Quantile Regression](https://www3.stat.sinica.edu.tw/preprint/SS-2021-0248_Preprint.pdf)", Statistica Sinica, 34(2).
 
+- Chen, H., Zhang, B., **Liu, H.**, Cao, J. (2024) "[The inequality in household electricity consumption due to temperature change: Data driven analysis with a function-on-function linear model](https://www.sciencedirect.com/science/article/pii/S0360544223031365)", Energy, 288(1), 129742.
+
 - **Liu, H.**, You, J., Cao, J. (2023) "[Functional L-Optimality Subsampling for Functional Generalized Linear Models with Massive Data](https://www.jmlr.org/papers/v24/22-0614.html)", Journal of Machine Learning Research, 24(219), 1-41.
 
 - **Liu, H.**, You, J., Cao, J. (2023) "[A Dynamic Interaction Semiparametric Function-on-Scalar Model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1933496)", Journal of the American Statistical Association, 118(541), 360-373.
