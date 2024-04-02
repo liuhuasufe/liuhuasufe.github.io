@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Hu, B., Hu, X., **Liu, H.**, You, J., Cao, J. (2024) "[Simultaneous Functional Quantile Regression](https://www3.stat.sinica.edu.tw/preprint/SS-2021-0248_Preprint.pdf)", Statistica Sinica, 34(2).
+- Hu, B., Hu, X., **Liu, H.**, You, J., Cao, J. (2024) "[Simultaneous Functional Quantile Regression](https://www3.stat.sinica.edu.tw/statistica/J34N2/J34N216/J34N216.html)", Statistica Sinica, 34(2), 867-888.
 
 - Chen, H., Zhang, B., **Liu, H.**, Cao, J. (2024) "[The inequality in household electricity consumption due to temperature change: Data driven analysis with a function-on-function linear model](https://www.sciencedirect.com/science/article/pii/S0360544223031365)", Energy, 288(1), 129742.
 
