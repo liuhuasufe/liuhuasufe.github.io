@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
+- **Liu, H.**, Wang, Z., Men, J., You, J. (2024) "[Functional Panel Quantile Regression Models with Group Structured Fixed Effect Functions](https://actamath.cjoe.ac.cn/Jwk_sxxb_cn/CN/10.12386/A20220167)", Acta Mathematica Sinica, Chinese Series, 67(4): 675-703.
+
 - Hu, B., Hu, X., **Liu, H.**, You, J., Cao, J. (2024) "[Simultaneous Functional Quantile Regression](https://www3.stat.sinica.edu.tw/statistica/J34N2/J34N216/J34N216.html)", Statistica Sinica, 34(2), 867-888.
 
 - Chen, H., Zhang, B., **Liu, H.**, Cao, J. (2024) "[The inequality in household electricity consumption due to temperature change: Data driven analysis with a function-on-function linear model](https://www.sciencedirect.com/science/article/pii/S0360544223031365)", Energy, 288(1), 129742.
