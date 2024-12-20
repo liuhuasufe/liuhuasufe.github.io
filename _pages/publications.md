@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- #Co-first author
-- *Corresponding author
-- + Alphabetical order
+# Co-first author
+* Corresponding author
++ Alphabetical order
 
 - Chen, X., **+Liu, H.**,  Men, J., You, J. (2024) "High-Dimensional Partially Linear Functional Cox Models", Biometrics, Accept.
 
