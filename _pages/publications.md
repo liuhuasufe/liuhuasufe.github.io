@@ -6,6 +6,8 @@ author_profile: true
 
 (#Co-first author, *Corresponding author, + Alphabetical order)
 
+9. Hua Liu.
+
 8. Chen, X., **+Liu, H.**,  Men, J., You, J. (2025) "[High-Dimensional Partially Linear Functional Cox Models](https://academic.oup.com/biometrics/article-abstract/81/1/ujae164/7954056?redirectedFrom=fulltext&login=false)", Biometrics, 81(1): ujae164.
 
 7. **Liu, H*.**, Wang, Z., Men, J., You, J. (2024) "[Functional Panel Quantile Regression Models with Group Structured Fixed Effect Functions](https://actamath.cjoe.ac.cn/Jwk_sxxb_cn/CN/10.12386/A20220167)", Acta Mathematica Sinica, Chinese Series, 67(4): 675-703.
