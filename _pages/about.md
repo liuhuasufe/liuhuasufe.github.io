@@ -10,7 +10,7 @@ redirect_from:
 
 ![](../images/webpage.jpeg)
 
-I am currently an assistant professor in the [School of Economics and Finance](http://sef.xjtu.edu.cn/index.htm) at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/). I earned my Ph.D. in Statistics from the [School of Statistics and Management, Shanghai University of Finance and Economics](https://ssm.sufe.edu.cn/) in 2021, under the supervision of [Prof. Jinhong You](https://ssm.sufe.edu.cn/f7/82/c713a128898/page.htm). From 2019 to 2021, I was a visiting Ph.D student in [Department of Statistics and Actuarial Science, Simon Fraser University](https://www.sfu.ca/stat-actsci.html), where I collaborated with [Prof. Jiguo Cao](https://www.sfu.ca/science/stat/cao/). My research primarily focuses on functional data analysis, nonparametric/semiparametric modeling, and big data analysis.
+I am currently an assistant professor in the [School of Economics and Finance](http://sef.xjtu.edu.cn/index.htm) at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/). I earned my Ph.D. in Statistics from the [School of Statistics and Management, Shanghai University of Finance and Economics](https://ssm.sufe.edu.cn/) in 2021, under the supervision of [Prof. Jinhong You](https://ssm.sufe.edu.cn/f7/82/c713a128898/page.htm). From 2019 to 2021, I was a visiting Ph.D student in [Department of Statistics and Actuarial Science, Simon Fraser University](https://www.sfu.ca/stat-actsci.html), where I collaborated with [Prof. Jiguo Cao](https://www.sfu.ca/science/stat/cao/). My research primarily focuses on functional data analysis, nonparametric/semiparametric modeling and big data analysis.
 
 
 # Education
