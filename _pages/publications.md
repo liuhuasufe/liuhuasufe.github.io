@@ -6,7 +6,6 @@ author_profile: true
 
 (#Co-first author, *Corresponding author, + Alphabetical order)
 
-9. Hua Liu.
 
 8. Chen, X., **+Liu, H.**,  Men, J., You, J. (2025) "[High-Dimensional Partially Linear Functional Cox Models](https://academic.oup.com/biometrics/article-abstract/81/1/ujae164/7954056?redirectedFrom=fulltext&login=false)", Biometrics, 81(1): ujae164.
 
