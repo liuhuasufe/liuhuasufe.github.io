@@ -6,6 +6,8 @@ author_profile: true
 
 (#Co-first author, *Corresponding author, + Alphabetical order)
 
+10. Men, J., You, J., **Liu, H*.** (2025) ''[Temporal Heterogeneity Learning for Functional Panel Quantile Regressions]()'', SCIENTIA SINICA Mathematica (in Chinese), Accepted.
+
 9. Li, C., Wang, Y.(stu), Cao, J., You, J., **Liu, H*.** (2025) ''[The Dynamic Interplay of Clan Culture and Socioeconomic Factors on Fertility: Evidence from China]()'', Annals of Applied Statistics, Accepted.
 
 8. Chen, X., **+Liu, H.**,  Men, J., You, J. (2025) "[High-Dimensional Partially Linear Functional Cox Models](https://academic.oup.com/biometrics/article-abstract/81/1/ujae164/7954056?redirectedFrom=PDF)", Biometrics, 81(1): ujae164.
