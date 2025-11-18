@@ -4,11 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-- **STAT370119: Nonparametric Statistics (Chinese)**\\
+- **STAT471319: Nonparametric Statistics (Chinese)**\\
   Semester: Fall\\
   Offered: 2025 - Now
 
-- **STAT471319: Econometrics (Chinese)**\\
+- **STAT370119: Econometrics (Chinese)**\\
   Semester: Fall\\
   Offered: 2024 - Now
 
