@@ -6,6 +6,8 @@ author_profile: true
 
 (#Co-first author, *Corresponding author, + Alphabetical order)
 
+11. Wang, S., **Liu, H#.**, Huang, T., You, J. (2026) "[Functional Semiparametric Modeling for Nonstationary and Periodic Time Series Data](https://www.sciencedirect.com/science/article/pii/S0304407625002027)", Journal of Econometrics, 253, 106149.
+
 10. Men, J., You, J., **Liu, H*.** (2025) ''[Temporal Heterogeneity Learning for Functional Panel Quantile Regressions]()'', SCIENTIA SINICA Mathematica (in Chinese), Accepted.
 
 9. Li, C., Wang, Y.(stu), Cao, J., You, J., **Liu, H*.** (2025) ''[The Dynamic Interplay of Clan Culture and Socioeconomic Factors on Fertility: Evidence from China]()'', Annals of Applied Statistics, Accepted.
