@@ -10,7 +10,7 @@ author_profile: true
 
 10. Men, J., You, J., **Liu, H*.** (2025) ''[Temporal Heterogeneity Learning for Functional Panel Quantile Regressions]()'', SCIENTIA SINICA Mathematica (in Chinese), Accepted.
 
-9. Li, C., Wang, Y.(stu), Cao, J., You, J., **Liu, H*.** (2025) ''[The Dynamic Interplay of Clan Culture and Socioeconomic Factors on Fertility: Evidence from China]()'', Annals of Applied Statistics, Accepted.
+9. Li, C., Wang, Y.(stu), Cao, J., You, J., **Liu, H*.** (2025) ''[The Dynamic Interplay of Clan Culture and Socioeconomic Factors on Fertility: Evidence from China](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-4/The-dynamic-interplay-of-clan-culture-and-socioeconomic-factors-on/10.1214/25-AOAS2085.short)'', Annals of Applied Statistics, 19(4): 3464-3491.
 
 8. Chen, X., **+Liu, H.**,  Men, J., You, J. (2025) "[High-Dimensional Partially Linear Functional Cox Models](https://academic.oup.com/biometrics/article-abstract/81/1/ujae164/7954056?redirectedFrom=PDF)", Biometrics, 81(1): ujae164.
 
