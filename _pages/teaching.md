@@ -20,7 +20,7 @@ author_profile: true
 
 - **STAT370519: Introduction to Statistics (Chinese)**\\
   Semester: Spring\\
-  Offered: 2023 - 2014
+  Offered: 2023 - 2024
 
 - **XJLU300119: Introduction to Statistics (English)**\\
   Semester: Fall\\
