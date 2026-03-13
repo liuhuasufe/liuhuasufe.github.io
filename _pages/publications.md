@@ -8,7 +8,7 @@ author_profile: true
 
 12. Shouxia Wang, **Hua Liu#**, Tao Huang, Jinhong You. (2026) "[Functional Semiparametric Modeling for Nonstationary and Periodic Time Series Data](https://www.sciencedirect.com/science/article/pii/S0304407625002027)", Journal of Econometrics, 253, 106149.
 
-11. **Hua Liu**, Boyi Hu, Jinhong You, Jiguo Cao. (2026) "[Convolution-Smoothing Based Locally Sparse Estimation for Functional Quantile Regression](https://webvpn.xjtu.edu.cn/https/77726476706e69737468656265737421fcfe4f976923784277068ea98a1b203a54/article/10.1007/s13253-026-00728-7)", Journal of Agricultural, Biological, and Environmental Statistics, Avaliable Online.
+11. **Hua Liu**, Boyi Hu, Jinhong You, Jiguo Cao. (2026) "[Convolution-Smoothing Based Locally Sparse Estimation for Functional Quantile Regression](https://link.springer.com/article/10.1007/s13253-026-00728-7)", Journal of Agricultural, Biological, and Environmental Statistics, Avaliable Online.
 
 10. Jiaqi Men, Jinhong You, **Hua Liu*.** (2025) ''[Temporal Heterogeneity Learning for Functional Panel Quantile Regressions]()'', SCIENTIA SINICA Mathematica (in Chinese), Accepted.
 
