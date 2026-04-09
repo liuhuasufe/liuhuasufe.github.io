@@ -11,7 +11,7 @@ redirect_from:
 ![](../images/webpagenew.jpeg)
 
 I am currently an Associate Professor in the [School of Economics and Finance](https://sef.xjtu.edu.cn/) at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), where I previously served as an Assistant Professor from 2021 to 2025.
-I obtained my Ph.D. in Statistics from the [School of Statistics and Management, Shanghai University of Finance and Economics](https://ssm.sufe.edu.cn/) in 2021, under the supervision of [Prof. Jinhong You](https://ssm.sufe.edu.cn/f7/82/c713a128898/page.htm). During my doctoral studies, I spent two years (2019–2021) as a visiting scholar at [Department of Statistics and Actuarial Science, Simon Fraser University](https://www.sfu.ca/stat-actsci.html), collaborating with [Prof. Jiguo Cao](https://www.sfu.ca/science/stat/cao/). My research interests lie in functional data analysis, nonparametric/semiparametric modeling, and big data analysis.
+I obtained my Ph.D. in Statistics from the [School of Statistics and Management, Shanghai University of Finance and Economics](https://ssds.sufe.edu.cn/) in 2021, under the supervision of [Prof. Jinhong You](https://ssds.sufe.edu.cn/f7/82/c713a128898/page.htm). During my doctoral studies, I spent two years (2019–2021) as a visiting scholar at [Department of Statistics and Actuarial Science, Simon Fraser University](https://www.sfu.ca/stat-actsci.html), collaborating with [Prof. Jiguo Cao](https://www.sfu.ca/science/stat/cao/). My research interests lie in functional data analysis, nonparametric/semiparametric modeling, and big data analysis.
 
 # Education
 
