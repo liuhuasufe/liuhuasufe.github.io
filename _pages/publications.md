@@ -6,6 +6,8 @@ author_profile: true
 
 (#Co-first author, *Corresponding author, + Alphabetical order)
 
+**Journal**
+
 12. Shouxia Wang, **Hua Liu#**, Tao Huang, Jinhong You. (2026) "[Functional Semiparametric Modeling for Nonstationary and Periodic Time Series Data](https://www.sciencedirect.com/science/article/pii/S0304407625002027)", Journal of Econometrics, 253, 106149.
 
 11. **Hua Liu**, Boyi Hu, Jinhong You, Jiguo Cao. (2026) "[Convolution-Smoothing Based Locally Sparse Estimation for Functional Quantile Regression](https://link.springer.com/article/10.1007/s13253-026-00728-7)", Journal of Agricultural, Biological, and Environmental Statistics, Avaliable Online.
@@ -30,5 +32,6 @@ author_profile: true
 
 1. **Hua Liu**, Youquan Pei, Qunfang Xu. (2020) "[Estimation for Varying Coefficient Panel Data Model with Cross-Sectional Dependence](https://link.springer.com/article/10.1007/s00184-019-00739-0)", Metrika, 83(3), 377-410.
 
-
+**Conference**
+1. Jiaqi Men, **Hua Liu#**, Yiming Tang, Jinhong You, Jianghu James Dong, Jiguo Cao. (2026) "[FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival]()", International Conference on Machine Learning (ICML), Accepted.
 
